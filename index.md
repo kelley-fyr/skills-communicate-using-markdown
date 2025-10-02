@@ -6,3 +6,5 @@
 ###### This is H6
 
 checking Header sizes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
